@@ -94,8 +94,8 @@
 .profile-background-parent:hover .profile-background .profile {
     height: 200px;
     width: 200px;
-    background-size: 200px;
-    background-position: center;
+    background-size: 160px;
+    /* background-position: center; */
 }
 
 /* Name */
