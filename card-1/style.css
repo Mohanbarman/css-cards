@@ -87,15 +87,15 @@
     background-repeat: no-repeat;
     height: 100px;
     width: 100px;
-    background-size: 100px;
+    background-size: 120px;
     transition: all 1s linear;
+    background-position: center;
 }
 
 .profile-background-parent:hover .profile-background .profile {
-    height: 200px;
-    width: 200px;
-    background-size: 200px;
-    background-position: center;
+    height: 150px;
+    width: 150px;
+    background-size: 150px;
 }
 
 /* Name */
