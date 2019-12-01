@@ -25,7 +25,6 @@
     flex-direction: column;
     overflow: hidden;
     transition: all 1s ease-in-out;
-    /* cursor: pointer; */
     box-shadow: 0 0 20px #c0a1c5;
 }
 
@@ -143,7 +142,7 @@
     align-items: flex-end;
 }
 
-.button-gradient {
+.button-background {
     background-color: #f8d7ff;
     border-radius: 50%;
     display: flex;
